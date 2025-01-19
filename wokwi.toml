@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+firmware = 'build/U4_Microcontroladores_GPIO_ATIVIDADE_2.uf2'
+elf = 'build/U4_Microcontroladores_GPIO_ATIVIDADE_2.elf'
+gdbServerPort=3333
+rfc2217ServerPort = 4000
