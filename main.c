@@ -3,7 +3,7 @@
 #define LED_PIN_GREEN 11
 #define LED_PIN_BLUE 12
 #define LED_PIN_RED 13
-#define BUZZER 21
+//#define BUZZER 21
 
 void init_gpio() {
     gpio_init(LED_PIN_GREEN);
