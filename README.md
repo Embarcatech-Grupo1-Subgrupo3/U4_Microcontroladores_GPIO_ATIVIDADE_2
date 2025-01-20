@@ -157,6 +157,7 @@ $ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladore
 - Conecte Um cabo USB tipo A na placa para o seu Dispositivo
 - Aperte os botões BOOTSEL e RESET na sua placa ao mesmo tempo para abrir o Armazenamento
 - Copie o arquivo [U4_Microcontroladores_GPIO_ATIVIDADE_2.uf2]() para o armazenamento da placa
+
 ```
 OBS:
 $ Para o funcionamento do projeto na placa será necessário um Teclado Matricial 4x4
