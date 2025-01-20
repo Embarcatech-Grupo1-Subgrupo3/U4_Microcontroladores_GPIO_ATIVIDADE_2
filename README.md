@@ -42,43 +42,58 @@ A Formação Básica em Software Embarcado da Embarcatech é um programa de capa
 
 ## 🎨 Layout Repositorio Github
 
-- U4_Microcontroladores_GPIO_ATIVIDADE_2/
-  - .vscode/
-    - c_cpp_properties.json
-    - cmake-kits.json
-    - extensions.json
-    - launch.json
-    - settings.json
-    - tasks.json
+U4_Microcontroladores_GPIO_ATIVIDADE_2/
 
-  - assets/
+- .vscode/
+  - c_cpp_properties.json
+  - cmake-kits.json
+  - extensions.json
+  - launch.json
+  - settings.json
+  - tasks.json
 
-  - feature/
-    - buzzer.c
-    - keyboard.c
-    - led.c
+- assets/
 
-  - include/
-    - buzzer.h
-    - keyboard.h
-    - led.h
+- build/
+  - generated/pico_base/pico/
+    - config_autogen.h
+    - version.h
 
-  - .gitignore
+  - pico-sdk/src/
+    - extra_doxygen/
+      - dreq.h
+      - intctrl.h
 
-  - CMakeLists.txt
+    - rp2350/boot_stage2
+      - bs2_default.bin
+      - bs2_default.dis
+      - bs2_default.elf
+      - bs2_default.elf.map
+      - bs2_default_padded_checksummed.S
 
-  - LICENSE
+  - U4_Microcontroladores_GPIO_ATIVIDADE_2.bin
+  - U4_Microcontroladores_GPIO_ATIVIDADE_2.dis
+  - U4_Microcontroladores_GPIO_ATIVIDADE_2.elf
+  - U4_Microcontroladores_GPIO_ATIVIDADE_2.elf.map
+  - U4_Microcontroladores_GPIO_ATIVIDADE_2.hex
+  - U4_Microcontroladores_GPIO_ATIVIDADE_2.uf2
+  - pico_flash_region.ld
 
-  - README.md
+- .gitignore
 
-  - README_wokwi.md
+- CMakeLists.txt
 
-  - diagram.json
+- LICENSE
 
-  - pico_sdk_import.cmake
+- README.md
 
-  - tarefa_1U4.c
+- diagram.json
 
+- main.c
+
+- pico_sdk_import.cmake
+
+- wokwi.toml
 
 ---
 
@@ -110,7 +125,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 - Abra o terminal de comando Git Bash no VsCode
 - Clone o repositório no seu diretório:
 ```
-$ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1.git
+$ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2.git
 ```
 - Abra a pasta no Vscode
 - Clique no Arquivo [diagram.json]() e aperte no botão play
@@ -128,7 +143,7 @@ OBS:
 - Descompacte o arquivo .zip
 - Entre no navegador e digite [Wokwi.com](https://gcc.gnu.org)
 - Faça Upload dos Arquivos [diagram.json]()
-- Faça upload do arquivo main.c
+- Faça upload do aquivo main [main.c]()
 
 
 #### 🎲 Rodando o Microcontrolador na placa BitdogLab
@@ -137,12 +152,12 @@ OBS:
 - Abra o terminal de comando Git Bash no VsCode
 - Clone o repositório no seu diretório:
 ```
-$ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1.git
+$ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2.git
 ```
 - Conecte Um cabo USB tipo A na placa para o seu Dispositivo
 - Aperte os botões BOOTSEL e RESET na sua placa ao mesmo tempo para abrir o Armazenamento
 - Copie o arquivo [U4_Microcontroladores_GPIO_ATIVIDADE_2.uf2]() para o armazenamento da placa
-```bash
+```
 OBS:
 $ Para o funcionamento do projeto na placa será necessário um Teclado Matricial 4x4
 ```
