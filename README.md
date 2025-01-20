@@ -98,10 +98,14 @@ U4_Microcontroladores_GPIO_ATIVIDADE_2/
 ---
 
 ## ⚙️ Funcionalidades
-- Teclado matricial 4x4.
-- 03 LEDs – tipo RGB.
-- Componente Buzzer.
-- Microcontrolador Raspberry Pi Pico W.
+1) Ligar LED verde (GPIO 11) – desligar as demais GPIOs;
+2) Ligar LED azul (GPIO 12) - desligar as demais GPIOs;
+3) Ligar LED vermelho (GPIO 13) - desligar as demais GPIOs;
+4) Ligar os três LEDs (luz branca);
+5) Desligar todos os LEDs;
+6) Acionar o buzzer por 2 segundos – emissão de sinal sonoro;
+7) Sair do modo de execução e habilitar o modo de gravação via
+software (reboot)
 
 ---
 
@@ -168,7 +172,7 @@ $ Para o funcionamento do projeto na placa será necessário um Teclado Matricia
 ## 🎥 Imagens do Projeto
 
 ### 💿 Projeto na extensão Wokwi simulator no Visual Studio
-<p align="center"><img width="700" height="400" src="https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1/blob/main/assets/Captura%20de%20Tela%20(39).png"></p>
+<p align="center"><img width="700" height="400" src="https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2/blob/main/assets/Captura%20de%20Tela%20(39).png"></p>
 
 ### 💿 Video do projeto
 <p align="center"><video ></p>
