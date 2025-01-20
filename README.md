@@ -162,10 +162,6 @@ $ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladore
 - Aperte os botões BOOTSEL e RESET na sua placa ao mesmo tempo para abrir o Armazenamento
 - Copie o arquivo [U4_Microcontroladores_GPIO_ATIVIDADE_2.uf2]() para o armazenamento da placa
 
-```
-OBS:
-$ Para o funcionamento do projeto na placa será necessário um Teclado Matricial 4x4
-```
 
 ---
 
@@ -175,7 +171,7 @@ $ Para o funcionamento do projeto na placa será necessário um Teclado Matricia
 <p align="center"><img width="700" height="400" src="https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2/blob/main/assets/Captura%20de%20tela.png"></p>
 
 ### 💿 Video do projeto
-<p align="center"><video ></p>
+Link:(https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2/blob/main/assets/U4_MICROCONTROLADORES%20-%20Vídeo%20demonstrativo%20Atividade%202.mp4)
 
 ---
 
