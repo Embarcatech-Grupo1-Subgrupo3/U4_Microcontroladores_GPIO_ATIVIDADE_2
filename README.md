@@ -173,7 +173,7 @@ $ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladore
 ### 💿 Preview do projeto
 
 
- https://github.com/user-attachments/assets/e852c3ca-c32c-461b-bd73-e22ae661b4d1
+https://github.com/user-attachments/assets/9ae0b33c-717a-4a3f-bbea-6e2ad3c452c1
 
 
 Link para Dowload do video completo:(https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2/blob/main/assets/U4_MICROCONTROLADORES%20-%20Vídeo%20demonstrativo%20Atividade%202.mp4)
