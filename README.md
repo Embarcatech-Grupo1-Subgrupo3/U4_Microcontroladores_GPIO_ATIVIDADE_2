@@ -170,7 +170,12 @@ $ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladore
 ### 💿 Projeto na extensão Wokwi simulator no Visual Studio
 <p align="center"><img width="700" height="400" src="https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2/blob/main/assets/Captura%20de%20tela.png"></p>
 
-### 💿 Video do projeto
+### 💿 Preview do projeto
+
+
+ https://github.com/user-attachments/assets/e852c3ca-c32c-461b-bd73-e22ae661b4d1
+
+
 Link:(https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2/blob/main/assets/U4_MICROCONTROLADORES%20-%20Vídeo%20demonstrativo%20Atividade%202.mp4)
 
 ---
