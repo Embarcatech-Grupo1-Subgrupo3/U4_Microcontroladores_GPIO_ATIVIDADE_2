@@ -173,10 +173,10 @@ $ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladore
 ### 💿 Preview do projeto
 
 
-https://github.com/user-attachments/assets/9ae0b33c-717a-4a3f-bbea-6e2ad3c452c1
+https://github.com/user-attachments/assets/b3c80bce-65c7-45ed-ae1b-efe6c4ffb6fa
 
 
-Link para Dowload do video completo:(https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2/blob/main/assets/U4_MICROCONTROLADORES%20-%20Vídeo%20demonstrativo%20Atividade%202.mp4)
+- Dowload HD video completo:(https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2/blob/main/assets/U4_MICROCONTROLADORES%20-%20Vídeo%20demonstrativo%20Atividade%202.mp4)
 
 ---
 
@@ -221,6 +221,6 @@ Mentor: MANOEL MESSIAS DA SILVA JUNIOR
 
 ## 📄 Licença
 
-Este projeto está sob a licença do SUBGRUPO 3 e seu Lider de Projeto da Formação Básica em Software Embarcado da Embarcatech - Veja o arquivo <a href="https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1/blob/main/LICENSE">License.md<a/>
+Este projeto está sob a licença do SUBGRUPO 3 e seu Lider de Projeto da Formação Básica em Software Embarcado da Embarcatech - Veja o arquivo <a href="https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_2/blob/main/LICENSE">License.md<a/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
